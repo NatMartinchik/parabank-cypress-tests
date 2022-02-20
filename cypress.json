@@ -1,0 +1,19 @@
+{
+    
+    "env": {
+      "login": "john",
+      "password": "demo",
+      "name": "Geralt",
+      "phone": "79365552245",
+      "email": "testgerivia@mail.com",
+      "sum": "1050",
+      "payee.name": "Jordan",
+      "payee.address.street": "Wall Street",
+      "payee.address.city": "New York City",
+      "payee.address.state": "NY",
+      "payee.address.zipCode": "010011",
+      "payee.phoneNumber": "7936173887",
+      "payee.accountNumber": "145738"
+
+    }
+  }
