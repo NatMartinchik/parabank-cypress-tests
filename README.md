@@ -1,2 +1,2 @@
 # parabank-cypress-tests
-Automated tests examples for https://parabank.parasoft.com/parabank/index.htm
+Automated tests examples created with Cypress for https://parabank.parasoft.com/parabank/index.htm
